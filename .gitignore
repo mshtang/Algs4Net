@@ -7,6 +7,7 @@
 *.sln.docstates
 dataset/
 [Pp]ublish/
+.vscode
 
 # Build results
 [Dd]ebug/
