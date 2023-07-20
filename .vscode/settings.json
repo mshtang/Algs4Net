@@ -1,0 +1,15 @@
+{
+    "dotnetAcquisitionExtension.existingDotnetPath": [
+        {
+            "extensionId": "msazurermtools.azurerm-vscode-tools",
+            "path": "C:\\Program Files\\dotnet\\dotnet.exe"
+        }
+    ],
+    "dotnet.defaultSolution": "Algs4Net.sln",
+    "cSpell.words": [
+        "Algs",
+        "algscmd",
+        "Sedgewick"
+    ],
+    "terminal.integrated.defaultProfile.windows": "Git Bash"
+}
