@@ -5,6 +5,8 @@
 *.suo
 *.user
 *.sln.docstates
+dataset/
+[Pp]ublish/
 
 # Build results
 [Dd]ebug/
