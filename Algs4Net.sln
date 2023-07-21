@@ -3,16 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algs4Net", "Algs4Net\Algs4Net.csproj", "{954842CA-7E68-4F45-BC39-3D8E6E193133}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algs4Net", "Algs4Net\Algs4Net.csproj", "{954842CA-7E68-4F45-BC39-3D8E6E193133}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgsCmd", "AlgsCmd\AlgsCmd.csproj", "{DE024656-F6D8-4AFB-840B-CDE116EF124E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgsCmd", "AlgsCmd\AlgsCmd.csproj", "{DE024656-F6D8-4AFB-840B-CDE116EF124E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EC55A9B8-7AA6-48B9-AE87-39DCB9DF7D08}"
-	ProjectSection(SolutionItems) = preProject
-		.editorconfig = .editorconfig
-	EndProjectSection
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algs4NetTests", "Algs4NetTests\Algs4NetTests.csproj", "{1D91C3DE-066C-4D4A-AD5D-8A417D0A73E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algs4NetTests", "Algs4NetTests\Algs4NetTests.csproj", "{1D91C3DE-066C-4D4A-AD5D-8A417D0A73E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solutions", "Solutions\Solutions.csproj", "{BF0597A4-E0E5-44AA-8CEC-690FF807638F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SolutionTests", "SolutionTests\SolutionTests.csproj", "{5CE3E5C4-D0C6-48AA-B744-5CA183E230B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,6 +31,14 @@ Global
 		{1D91C3DE-066C-4D4A-AD5D-8A417D0A73E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D91C3DE-066C-4D4A-AD5D-8A417D0A73E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D91C3DE-066C-4D4A-AD5D-8A417D0A73E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF0597A4-E0E5-44AA-8CEC-690FF807638F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF0597A4-E0E5-44AA-8CEC-690FF807638F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF0597A4-E0E5-44AA-8CEC-690FF807638F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF0597A4-E0E5-44AA-8CEC-690FF807638F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CE3E5C4-D0C6-48AA-B744-5CA183E230B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE3E5C4-D0C6-48AA-B744-5CA183E230B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE3E5C4-D0C6-48AA-B744-5CA183E230B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE3E5C4-D0C6-48AA-B744-5CA183E230B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
