@@ -1,6 +1,6 @@
 namespace Solutions.Chapter1.Section1;
 
-public static class S11
+public static class S13
 {
     public static int[,] Transpose(int[,] mat)
     {
